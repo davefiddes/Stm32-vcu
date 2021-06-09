@@ -17,6 +17,9 @@ Video on progress : https://vimeo.com/506480876
 - BMW E65 CAN Support
 
 # Compiling
+
+[![Build Status](https://travis-ci.org/davefiddes/Stm32-vcu.svg?branch=modular)](https://travis-ci.org/davefiddes/Stm32-vcu)
+
 You will need the arm-none-eabi toolchain: https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 The only external depedencies are libopencm3 and libopeninv. You can download and build this dependency by typing
 
